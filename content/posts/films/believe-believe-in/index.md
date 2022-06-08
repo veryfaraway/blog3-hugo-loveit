@@ -1,7 +1,10 @@
 ---
 title: "영화속  영어 공부 < believe / believe in >"
 date: 2022-06-09T02:01:33+09:00
-draft: true
+draft: false
+categories: ["Films"]
+tags: ["영화 좀 더 재미있게 보자", "Dark Knight"]
+toc: false
 resources:
 - name: featured-image
   src: featured-image.jpg
