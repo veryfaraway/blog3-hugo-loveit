@@ -255,7 +255,7 @@ languageName = "English"
     Lichess = ""
     ORCID = ""
     Pleroma = ""
-    Email = "EMAIL_ADDR"
+    Email = "HUGO_MY_EMAIL"
     RSS = true # 
 
   #  Page global config
