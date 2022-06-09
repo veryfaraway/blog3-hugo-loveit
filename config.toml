@@ -255,7 +255,7 @@ languageName = "English"
     Lichess = ""
     ORCID = ""
     Pleroma = ""
-    Email = "$HUGO_MY_EMAIL"
+    Email = "dinnerout.operation@gmail.com"
     RSS = true # 
 
   #  Page global config
@@ -485,7 +485,7 @@ languageName = "English"
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-12T3RG3M8E"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
