@@ -349,7 +349,7 @@ languageName = "English"
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # 
@@ -359,11 +359,11 @@ languageName = "English"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
-        enable = false
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
+        enable = true
+        owner = "veryfaraway"
+        repo = "blog3-hugo-loveit"
+        clientId = "3ecf6b83abaef89e2fe3"
+        clientSecret = "6b73acf897287774c440ec80de3345db77555b1c"
       # Valine comment config
       [params.page.comment.valine]
         enable = false
@@ -482,7 +482,7 @@ languageName = "English"
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "G-12T3RG3M8E"
