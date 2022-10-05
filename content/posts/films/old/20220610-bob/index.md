@@ -4,8 +4,10 @@ date: 2022-06-10
 draft: false
 categories: ["Films"]
 tags: ["영화 좀 더 재미있게 보자", "Band of Brothers", "HBO"]
-toc: true
+toc:
+  auto: false
 isCJKLanguage: true
+lightgallery: true
 resources:
 - name: featured-image
   src: featured-image.jpg
