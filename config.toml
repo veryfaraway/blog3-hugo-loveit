@@ -360,10 +360,10 @@ languageName = "English"
       [params.page.comment.gitalk]
         # 
         enable = true
-        owner = "veryfaraway"
-        repo = "blog3-hugo-loveit"
-        clientId = "78b5ef316c9e548b4225"
-        clientSecret = "f4ee881d44af97379f564cdddd5a3880bb97fb74"
+        owner = "owner"
+        repo = "repo"
+        clientId = "clientId"
+        clientSecret = "clientSecret"
       # Valine comment config
       [params.page.comment.valine]
         enable = false
