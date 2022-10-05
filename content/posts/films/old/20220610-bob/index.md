@@ -462,9 +462,11 @@ resources:
 
 - **헨리 존스 소위 2nd Lt. Henry Jones (콜린 행크스 Colin Hanks)**
 
-- 8부에 등장하는 신출내기 소위입니다. 
-- 포로 획득 작전을 무사히 수행한 공로로 곧바로 중위로 진급합니다. 
-- 배우는 톰 행크스의 아들입니다. 
+  ![헨리 존스 소위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Colin_Hanks,h_500,q_auto,x_600/media/series/bob/Colin_Hanks-Henry_Jones.png)
+
+  - 8부에 등장하는 신출내기 소위입니다. 
+  - 포로 획득 작전을 무사히 수행한 공로로 곧바로 중위로 진급합니다. 
+  - 배우는 톰 행크스의 아들입니다. 
 
 
 
