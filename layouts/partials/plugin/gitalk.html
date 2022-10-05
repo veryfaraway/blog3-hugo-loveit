@@ -1,13 +1,9 @@
-TEST
-
 {{- $cdn := .Scratch.Get "cdn" | default dict -}}
 {{- $fingerprint := .Scratch.Get "fingerprint" -}}
 {{- $comment := .Scratch.Get "comment" | default dict -}}
 {{- $commentConfig := dict -}}
 
 {{- $gitalk := $comment.gitalk | default dict -}}
-
-$gitalk.repo
 
 <div id="gitalk" class="comment"></div>
 {{- $source := $cdn.gitalkCSS | default "lib/gitalk/gitalk.css" -}}
@@ -18,23 +14,3 @@ $gitalk.repo
 <noscript>
     Please enable JavaScript to view the comments powered by <a href="https://github.com/gitalk/gitalk"></a>Gitalk</a>.
 </noscript>
-
-
-
-<!-- 
-
-  var gitalk = new Gitalk({
-    id: '{{ .Date }}',
-    title: '{{ .Title }}',
-    clientID: '{{ .Site.Params.gitalk.id }}',
-    clientSecret: '{{ .Site.Params.gitalk.secret }}',
-    repo: '{{ .Site.Params.gitalk.repo }}',
-    owner: '{{ .Site.Params.gitalk.owner }}',
-    admin: ['{{ .Site.Params.gitalk.owner }}'],
-    body: decodeURI(location.href)
-  });
-  gitalk.render('gitalk-container');
-    
-
-
- -->
