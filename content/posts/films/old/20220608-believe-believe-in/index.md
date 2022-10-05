@@ -1,5 +1,5 @@
 ---
-title: "영화속  영어 공부 < believe / believe in >"
+title: "영화속 영어 공부: believe / believe in"
 date: 2022-06-08T02:01:33+09:00
 draft: false
 categories: ["Films"]
