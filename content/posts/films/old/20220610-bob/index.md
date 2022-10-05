@@ -34,7 +34,7 @@ resources:
 
 - **리처드 딕 윈터스 소령 Maj. Richard D. Winters (데미안 루이스 Damian Lewis)**
 
-  ![리처드 딕 윈터스 소령](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Richard-Winters-Damian-Lewis_wmgnyr,h_500,x_365/media/series/bob/richard_winters_tdpxum.jpg)
+  ![리처드 딕 윈터스 소령](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Richard-Winters-Damian-Lewis_wmgnyr,h_500,x_365/media/series/bob/richard_winters_tdpxum.jpg "리처드 딕 윈터스 소령")
 
   - 이지 중대 창설 당시에는 소위였다가 훈련소가 있는 토코아에서 중위로 진급, 노르망디 작전 중에 임시로 이지 중대장이 되었다가 그대로 중대장이 됩니다. 
   - 노르망디 상륙작전이 끝난 후 1944년 7월 1일부로 십자수 훈장을 수여받음과 동시에 대위로 진급합니다.(3부 마지막) 
@@ -45,20 +45,20 @@ resources:
 
 - **허버트 소블 대위 Capt. Herbert Sobel (데이빗 쉼머 David Schwimmer)**
 
-  ![허버트 소블 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/herbert-sobel-featured_bc7wxa.png)
+  ![허버트 소블 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/herbert-sobel-featured_bc7wxa.png "허버트 소블 대위")
 
   - 초대 이지중대장으로 토코아에서 대위로 진급합니다. 
   - 야전 지휘관으로는 빵점입니다만, 훈련소의 교관으로는 아주 적합한 인물입니다. 
   - 특히나 깐깐하고 꼬장꼬장하며, 소심한 성격을 가지고 있어서 전장에서는 부하들을 다 죽일 수 있는 인물이죠. 
   - 결국 립튼, 마이크 라니, 가니어 등의 하사관들이 주축이 된 항명 사건으로 다른 부대로 가게 됩니다. 
   - 10부에서 윈터스에게 마지못해 경례하던 모습이 나옵니다. 
-  ![윈터스에게 마지못해 경례하던 모습](https://res.cloudinary.com/doal3ofyr/image/upload/w_800,q_auto/media/series/bob/winters-sobel-ep10_mqm0wu.jpg)
+  ![윈터스에게 마지못해 경례하던 모습](https://res.cloudinary.com/doal3ofyr/image/upload/w_800,q_auto/media/series/bob/winters-sobel-ep10_mqm0wu.jpg "윈터스에게 마지못해 경례하던 모습")
 
 
 
 - **카우드 립튼 소위 2nd Lt. C. Carwood Lipton (도니 왈버그 Donnie Wahlberg)**
 
-  ![카우드 립튼 소위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/Carwood-Lipton-Donnie-Wahlberg_zzfae3.jpg)
+  ![카우드 립튼 소위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/Carwood-Lipton-Donnie-Wahlberg_zzfae3.jpg "카우드 립튼 소위")
 
   - 이지 중대 창설 당시 멤버(토코아 맨)중 한 사람으로 하사관으로 복무하다가 1945년 2월 16일부로 소위로 진급했습니다. 
   - 장교와 사병들간에 다리 노릇을 했으며 누구보다도 중요한, 중대의 허리 역할을 했던 인물입니다. 
@@ -67,7 +67,7 @@ resources:
 
 - **루이스 닉슨 대위 Capt. Lewis Nixon (론 리빙스턴 Ron Livingston)**
 
-  ![루이스 닉슨 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/lewis-nixon-and-ron-livingston_rkm0ot.jpg)
+  ![루이스 닉슨 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/lewis-nixon-and-ron-livingston_rkm0ot.jpg "루이스 닉슨 대위")
 
   - 토코아 맨 중 한 사람으로 윈터스와 비슷한 시기에 중위로 진급, 4부에서부터 대위로 등장합니다. 
   - 부유한 집안에서 자라서 군인이 되었는데 술(VAT 69 스카치 위스키)을 무척 즐기는 사람입니다. 
@@ -78,7 +78,7 @@ resources:
 
 - **로널드 스피어스 대위 Capt. Ronald Speirs (매튜 세틀 Matthew Settle)**
 
-  ![로널드 스피어스 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/ronald-speirs_xd0lzm.jpg)
+  ![로널드 스피어스 대위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/ronald-speirs_xd0lzm.jpg "로널드 스피어스 대위")
 
   - 도그 중대 소대장이었다가 7부에서 이지 중대장으로 취임, 9부에서부터 대위로 등장합니다. 
   - 그 저돌적인 스타일로 사병들에게는 피의 스피어스(Bloody Speirs)로, 장교들간에는 열혈남아 스피어스(Sparky Speirs)라는 별명이 붙었습니다. 
@@ -88,7 +88,7 @@ resources:
 
 - **해리 웰시 중위 1st Lt. Harry Welsh (릭 워든 Rick Warden)**
 
-  ![해리 웰시 중위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Harry-Welsh-Rick-Warden,h_500,q_auto,x_595/media/series/bob/Harry-Welsh.jpg)
+  ![해리 웰시 중위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Harry-Welsh-Rick-Warden,h_500,q_auto,x_595/media/series/bob/Harry-Welsh.jpg "해리 웰시 중위")
 
   - 원래는 82공수 사단 소속이었는데 토코아 훈련소 때 101공수로 전입을 온 후 4부쯤부터 중위로 등장합니다. 
   - 6부에서 모닥불을 피우다가 독일군의 박격포 공격에 허벅지를 부상당합니다. 
@@ -97,7 +97,7 @@ resources:
 
 - **윌리엄 가니어 하사 SSgt. William 'Wild Bill' Guarnere (프랭크 존 휴즈 Frank John Hughes)**
 
-  ![윌리엄 가니어 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/frank-john-hughes-as-ssgt-william-22wild-bill22-guarnere_uby6bj.jpg)
+  ![윌리엄 가니어 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/frank-john-hughes-as-ssgt-william-22wild-bill22-guarnere_uby6bj.jpg "윌리엄 가니어 하사")
 
   - 토코아 맨으로 노르망디 상륙 작전 이후 영국에서 부대 정비 중에 하사로 진급합니다.(4부)
   - 그의 이름과 성격 때문에 임질(gonorrhea)이라는 별명이 붙었습니다. 
@@ -106,7 +106,7 @@ resources:
 
 - **도널드 멀라키 중사 TSgt. Donald Malarkey (스콧 그라임스 Scott Grimes)**
 
-  ![도널드 멀라키 중사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Donald-Malarkey-with-Scott-Grimes,h_500,q_auto,x_460/l_media:series:bob:Donald-Malarkey-Scott-Grimes,h_500,q_auto,x_625/media/series/bob/Donald-Malarkey-Easy.jpg)
+  ![도널드 멀라키 중사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Donald-Malarkey-with-Scott-Grimes,h_500,q_auto,x_460/l_media:series:bob:Donald-Malarkey-Scott-Grimes,h_500,q_auto,x_625/media/series/bob/Donald-Malarkey-Easy.jpg "도널드 멀라키 중사")
 
   - 가니어와 함께 영국에서 병장으로 진급(4부)한 후 8부에서 중사로 등장합니다. 
   - 8부에서는 아주 지친 듯한 모습으로 등장합니다. 
@@ -117,7 +117,7 @@ resources:
 
 - **린 '벅' 캄프튼 중위 1st Lt. Lynn 'Buck' Compton (닐 맥도너 Neal McDonough)**
 
-  ![린 벅 캄프튼 중위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Lynn-Compton-with-Neal-McDonough,h_500,q_auto,x_415/l_media:series:bob:Lynn-Compton-Neal-McDonough,h_500,q_auto,x_795/media/series/bob/Lynn-Compton.jpg)
+  ![린 벅 캄프튼 중위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Lynn-Compton-with-Neal-McDonough,h_500,q_auto,x_415/l_media:series:bob:Lynn-Compton-Neal-McDonough,h_500,q_auto,x_795/media/series/bob/Lynn-Compton.jpg "린 벅 캄프튼 중위")
 
   - 해리 웰시와 같은 날 중위로 진급합니다. 
   - 4부에서는 엉덩이에 총을 맞아 1발의 총알에 네 개의 구멍이 생기는 진기 명기를 연출했습니다. 
@@ -126,7 +126,7 @@ resources:
 
 - **조지 러즈 병장 Sgt. George Luz (릭 고메즈 Rick Gomez)**
 
-  ![조지 러즈 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:George-Luz-Rick-Gomez,h_500,q_auto,x_505/media/series/bob/George-Luz.jpg)
+  ![조지 러즈 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:George-Luz-Rick-Gomez,h_500,q_auto,x_505/media/series/bob/George-Luz.jpg "조지 러즈 병장")
 
   - 성대모사와 익살이 그만인 이지중대 무전병입니다. 
   - 부상 한 번 안 당하는 정말 운 좋은 병사입니다. 
@@ -136,7 +136,7 @@ resources:
 
 - **데이빗 웹스터 일병 Pvt. David Kenyon Webster (에이온 베일리 Eion Bailey)**
 
-  ![데이빗 웹스터 일병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:David-Webster-Eion-Bailey,h_500,q_auto,x_615/media/series/bob/David-Webster.jpg)
+  ![데이빗 웹스터 일병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:David-Webster-Eion-Bailey,h_500,q_auto,x_615/media/series/bob/David-Webster.jpg "데이빗 웹스터 일병")
 
   - 하버드대 출신의 문학도입니다. 
   - 고학력자라는 이유로 은근히 동료들에게 잘난 척한다는 질시를 받았죠. 
@@ -146,7 +146,7 @@ resources:
 
 - **프랭크 퍼칸테 병장 Sgt. Frank Perconte (제임스 마디오 James Madio)**
 
-  ![프랭크 퍼칸테 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Sgt_frank_perconte_today_ooe8rz,h_500,q_auto,x_465/l_media:series:bob:Frank-Perconte-James-Madio,h_500,q_auto,x_800/media/series/bob/Sgt_frank_perconte_506e_ozfbt4.jpg)
+  ![프랭크 퍼칸테 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Sgt_frank_perconte_today_ooe8rz,h_500,q_auto,x_465/l_media:series:bob:Frank-Perconte-James-Madio,h_500,q_auto,x_800/media/series/bob/Sgt_frank_perconte_506e_ozfbt4.jpg "프랭크 퍼칸테 병장") 
 
   - 전리품 수집이 취미입니다. 
   - 특히 독일제 손목시계를 많이 수집하던 병사입니다. 
@@ -155,7 +155,7 @@ resources:
 
 - **조셉 토이 하사 SSgt. Joseph Toye (커크 아세베도 Kirk Acevedo)**
 
-  ![조셉 토이 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Joseph-Toye-Kirk-Acevedo,h_500,q_auto,x_615/media/series/bob/Sgt_joseph_toye_506e_zkktof.jpg)
+  ![조셉 토이 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Joseph-Toye-Kirk-Acevedo,h_500,q_auto,x_615/media/series/bob/Sgt_joseph_toye_506e_zkktof.jpg "조셉 토이 하사")
 
   - 2부에서 2번의 수류탄 폭발에도 살아남은 운 좋은 병사입니다. 
   - 7부에서는 가니어와 함께 다리를 잃었죠. 
@@ -164,7 +164,7 @@ resources:
 
 - **덴버 '불' 랜들먼 병장 Sgt. Denver 'Bull' Randleman (마이클 커들리츠 Michael Cudlitz)**
 
-  ![덴버 랜들먼 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Randleman_today_p2vsqq,h_500,q_auto,x_325/l_media:series:bob:Denver-Randleman-Michael-Cudlitz,h_500,q_auto,x_495/media/series/bob/Denver_Randleman_ygrtiy.jpg)
+  ![덴버 랜들먼 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Randleman_today_p2vsqq,h_500,q_auto,x_325/l_media:series:bob:Denver-Randleman-Michael-Cudlitz,h_500,q_auto,x_495/media/series/bob/Denver_Randleman_ygrtiy.jpg "덴버 랜들먼 병장")
 
   - 4부 아인트호벤 전투에서 낙오당했다가 간신히 부대로 복귀합니다. 
   - 시가를 항상 입에 물고 있는 노련한 소대 하사관입니다.
@@ -172,7 +172,7 @@ resources:
 
 - **워렌 스킵 먹 병장 Sgt. Warren 'Skip' Muck (리처드 스파이트 주니어 Richard Speight Jr.)**
 
-  ![워렌 스킵 먹 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Richard-Speight-Jr_vgleyc,h_500,q_auto,x_690/media/series/bob/skip_muck_cute_cimazd.jpg)
+  ![워렌 스킵 먹 병장](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Richard-Speight-Jr_vgleyc,h_500,q_auto,x_690/media/series/bob/skip_muck_cute_cimazd.jpg "워렌 스킵 먹 병장")
 
   - 7부에서 포격 중에 조지 러즈를 오라고 부르다가 포탄이 참호 안에서 터지면서 전사합니다. 
 
@@ -180,7 +180,7 @@ resources:
 
 - **존 마틴 하사 Sgt. John Martin (덱스터 플레처 Dexter Fletcher)**
 
-  ![존 마틴 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/dexter-fletcher-ssgt-john-martin.jpg_cmfnaa.webp)
+  ![존 마틴 하사](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/dexter-fletcher-ssgt-john-martin.jpg_cmfnaa.webp "존 마틴 하사")
 
   - 황소 랜들먼과 절친한 병사이고, 가니어의 형이 전사했음을 알리는 편지를 받고 본의 아니게 가니어에게 알려줍니다.
   - 4부에서 랜들먼이 낙오할 때 그를 찾자고 한 병사입니다. 
@@ -189,7 +189,7 @@ resources:
 
 - **조셉 리브갓 상병 Cpl. Joseph Liebgott (로스 맥컬 Ross McCall)**
 
-  ![조셉 리브갓 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/ross-mccall-as-cpl-joseph-liebgott.jpg_koka6n.webp)
+  ![조셉 리브갓 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/media/series/bob/ross-mccall-as-cpl-joseph-liebgott.jpg_koka6n.webp "조셉 리브갓 상병")
 
   - 유태인 병사입니다. 
   - 5부에서는 윈터스가 총알 1발을 주고 포로를 호송시키는 임무를 맡겼고 독일어를 할 줄 압니다. 
@@ -199,7 +199,7 @@ resources:
 
 - **유진 로 상병(의무병) Cpl. Eugene Roe (medic) (셰인 타일러 Shane Taylor)**
 
-  ![유진 로 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Shane-in-Band-of-Brothers-shane-taylor-21328239-591-543_qua1lg,h_500,q_auto,x_445/media/series/bob/EugeneroeEasy506_ujlr5f.jpg)
+  ![유진 로 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Shane-in-Band-of-Brothers-shane-taylor-21328239-591-543_qua1lg,h_500,q_auto,x_445/media/series/bob/EugeneroeEasy506_ujlr5f.jpg "유진 로 상병")
 
   - 6부의 주인공입니다. 
   - 이지 중대원들을 항상 돌보는 헌신적인 병사입니다. 
@@ -209,7 +209,7 @@ resources:
 
 - **도널드 후블러 상병 Cpl. Donald Hoobler (피터 맥케이브 Peter McCabe)**
 
-  ![도널드 후블러 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Donald-Hoobler-Peter-McCabe,h_500,q_auto,x_620/media/series/bob/Pfc_donald_hoobler_506e_ml8qel.jpg) 
+  ![도널드 후블러 상병](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Donald-Hoobler-Peter-McCabe,h_500,q_auto,x_620/media/series/bob/Pfc_donald_hoobler_506e_ml8qel.jpg "도널드 후블러 상병") 
 
   - 루거 권총의 오발로 어이없는 죽음을 맞았죠. 
   - 금니가 인상적인 병사로 남들은 별로 내키지 않아 하는 부대 첨병을 스스로 맡아서 하기도 했던 군대 체질의 병사입니다.
@@ -464,7 +464,7 @@ resources:
 
 - **헨리 존스 소위 2nd Lt. Henry Jones (콜린 행크스 Colin Hanks)**
 
-  ![헨리 존스 소위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Colin_Hanks,h_500,q_auto,x_600/media/series/bob/Colin_Hanks-Henry_Jones.png)
+  ![헨리 존스 소위](https://res.cloudinary.com/doal3ofyr/image/upload/h_500,q_auto/l_media:series:bob:Colin_Hanks,h_500,q_auto,x_600/media/series/bob/Colin_Hanks-Henry_Jones.png "헨리 존스 소위")
 
   - 8부에 등장하는 신출내기 소위입니다. 
   - 포로 획득 작전을 무사히 수행한 공로로 곧바로 중위로 진급합니다. 
