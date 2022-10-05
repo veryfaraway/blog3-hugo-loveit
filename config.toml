@@ -362,8 +362,8 @@ languageName = "English"
         enable = true
         owner = "veryfaraway"
         repo = "blog3-hugo-loveit"
-        clientId = "1600b114ba5ca7385ddd"
-        clientSecret = "e9f8d258b06c9f7692ae80172a988c8d74ef0a2d"
+        clientId = "78b5ef316c9e548b4225"
+        clientSecret = "f4ee881d44af97379f564cdddd5a3880bb97fb74"
       # Valine comment config
       [params.page.comment.valine]
         enable = false
