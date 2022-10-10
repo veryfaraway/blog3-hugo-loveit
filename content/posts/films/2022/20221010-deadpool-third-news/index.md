@@ -33,5 +33,9 @@ resources:
 
 {{< youtube K-BDJRzRJo8 >}}
 
+{{< youtube 4WwxbWPZydc >}}
+
+케빈 파이기가 일을 너무 크게 벌인다는 우려섞인 목소리가 많은데 이번 건은 정말 좋네요.
+
 
 
