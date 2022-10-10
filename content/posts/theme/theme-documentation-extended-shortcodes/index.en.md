@@ -4,6 +4,7 @@ title: "Theme Documentation - Extended Shortcodes"
 date: 2020-03-03T16:29:41+08:00
 lastmod: 2020-06-12T10:10:13+03:00
 draft: true
+hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
 description: "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo."
