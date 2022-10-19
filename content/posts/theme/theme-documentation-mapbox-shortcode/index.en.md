@@ -3,7 +3,7 @@ weight: 7
 title: "Theme Documentation - mapbox Shortcode"
 date: 2020-03-03T13:29:41+08:00
 lastmod: 2020-03-03T13:29:41+08:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -13,10 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
-
-hiddenFromHomePage: true
+categories: ["Theme"]
 
 toc:
   enable: false

@@ -3,7 +3,7 @@ weight: 2
 title: "Theme Documentation - Content"
 date: 2020-03-05T15:58:26+08:00
 lastmod: 2020-03-05T15:58:26+08:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -13,8 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["content", "Markdown"]
-categories: ["documentation"]
+categories: ["Theme"]
 
 lightgallery: true
 

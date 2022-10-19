@@ -3,7 +3,7 @@ weight: 6
 title: "Theme Documentation - echarts Shortcode"
 date: 2020-03-03T14:29:41+08:00
 lastmod: 2020-03-03T14:29:41+08:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -13,11 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
-
-hiddenFromHomePage: true
-
+categories: ["Theme"]
 toc:
   enable: false
 code:

@@ -563,7 +563,8 @@ languageName = "English"
 # Permalinks config
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  # posts = ":filename"
+  posts = ":sections/:year/:yearday/:slug"
 
 # Privacy config
 [privacy]

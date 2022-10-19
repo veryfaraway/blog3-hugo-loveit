@@ -3,7 +3,7 @@ weight: 10
 title: "Theme Documentation - typeit Shortcode"
 date: 2020-03-03T10:29:41+08:00
 lastmod: 2020-03-03T10:29:41+08:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -13,10 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
-
-hiddenFromHomePage: true
+categories: ["Theme"]
 ---
 
 The `typeit` shortcode provides typing animation based on [TypeIt](https://typeitjs.com/) library.

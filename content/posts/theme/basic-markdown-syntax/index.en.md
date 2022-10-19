@@ -13,8 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]
+categories: ["Theme"]
 
 lightgallery: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: "데드풀 3(Deadpool 3) 제작 및 출연진 소식"
 subtitle: "휴 잭맨(울버린) 리턴즈"
+slug: "news-deadpool-3"
 date: 2022-10-10
 lastmod: 2022-10-10
 draft: false

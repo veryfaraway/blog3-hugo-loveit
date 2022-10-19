@@ -3,7 +3,7 @@ weight: 5
 title: "Theme Documentation - mermaid Shortcode"
 date: 2020-03-03T15:29:41+08:00
 lastmod: 2020-03-03T15:29:41+08:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -13,10 +13,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
-
-hiddenFromHomePage: true
+categories: ["Theme"]
 ---
 
 {{< version 0.2.11 changed >}}

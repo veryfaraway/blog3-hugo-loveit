@@ -3,6 +3,7 @@ title: "三人行必有我師"
 date: 2022-06-07T00:01:33+09:00
 draft: false
 toc: false
+categories: ["Notice"]
 ---
 
 > 子曰 三人行, 必有我師焉 자왈 삼인행 필유아사언 \

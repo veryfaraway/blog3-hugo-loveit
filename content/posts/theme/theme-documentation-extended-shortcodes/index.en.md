@@ -3,7 +3,7 @@ weight: 4
 title: "Theme Documentation - Extended Shortcodes"
 date: 2020-03-03T16:29:41+08:00
 lastmod: 2020-06-12T10:10:13+03:00
-draft: true
+draft: false
 hiddenFromHomePage: true
 author: "Dillon"
 authorLink: "https://dillonzq.com"
@@ -15,8 +15,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.jpg"
 
-tags: ["shortcodes"]
-categories: ["documentation"]
+categories: ["Theme"]
 
 lightgallery: true
 
