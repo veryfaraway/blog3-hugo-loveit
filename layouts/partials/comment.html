@@ -17,10 +17,7 @@
         {{- end -}}
 
         {{- /* Gitalk Comment System */ -}}
-        {{- $gitalk := $comment.gitalk | default dict -}}
-        {{- if $gitalk.enable -}}
-            {{- partial "plugin/gitalk.html" . -}}
-        {{- end -}}
+        {{- partial "plugin/gitalk.html" . -}}
 
         {{- /* Valine Comment System */ -}}
         {{- $valine := $comment.valine | default dict -}}
