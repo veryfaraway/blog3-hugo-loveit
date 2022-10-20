@@ -5,6 +5,10 @@
 
 {{- $gitalk := $comment.gitalk | default dict -}}
 {{- if $gitalk.enable -}}
+    ID: {{ .Site.Params.gitalk.id }} <br/>
+    Code: {{ .Site.Params.gitalk.secret }} <br/>
+    Repo: {{ .Site.Params.gitalk.repo }} <br/>
+    Owner: {{ .Site.Params.gitalk.owner }} <br/>
     <div id="gitalk" class="comment"></div>
     {{- $source := $cdn.gitalkCSS | default "lib/gitalk/gitalk.css" -}}
     {{- dict "Source" $source "Minify" true "Fingerprint" $fingerprint | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
