@@ -360,8 +360,8 @@ languageName = "English"
       [params.page.comment.gitalk]
         # 
         enable = true
-        owner = "owner"
-        repo = "repo"
+        owner = "gitalkOwner"
+        repo = "gitalkRepo"
         clientId = "clientId"
         clientSecret = "clientSecret"
       # Valine comment config
