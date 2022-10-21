@@ -1,6 +1,6 @@
 ---
 title: "록키(Rocky) 가 보여준 아메리칸 드림"
-date: 2022-06-09T02:01:33+09:00
+date: 2022-01-02T02:01:33+09:00
 draft: false
 categories: ["Films"]
 tags: ["영화 좀 더 재미있게 보자", "Rocky", "Sylvester Stallone"]

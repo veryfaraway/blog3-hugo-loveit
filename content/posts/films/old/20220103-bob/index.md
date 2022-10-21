@@ -1,7 +1,7 @@
 ---
 title: "밴드 오브 브라더스(Band of Brothers) 등장인물 소개"
-date: 2022-06-10
-lastmod: 2022-10-04
+date: 2022-01-03
+lastmod: 2022-01-03
 draft: false
 categories: ["Films"]
 tags: ["영화 좀 더 재미있게 보자", "Band of Brothers", "HBO"]
