@@ -11,6 +11,9 @@ languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 
+# robots.txt
+enableRobotsTXT = true
+
 # Author config
 [author]
   name = "야근반장"
@@ -553,9 +556,6 @@ languageName = "English"
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
-
-# robots.txt
-enableRobotsTXT = true
 
 # Sitemap config
 [sitemap]
