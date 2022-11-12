@@ -554,9 +554,13 @@ languageName = "English"
     startLevel = 2
     endLevel = 6
 
+# robots.txt
+enableRobotsTXT = true
+
 # Sitemap config
 [sitemap]
-  changefreq = "weekly"
+  # always, hourly daily, weekly, monthly, yearly, never
+  changefreq = "monthly"
   filename = "sitemap.xml"
   priority = 0.5
 
