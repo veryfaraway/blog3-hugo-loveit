@@ -16,7 +16,7 @@ resources:
   src: featured-image-preview.webp
 ---
 
-영화 상영 시간이 2시간 40여 분으로 상당히 긴 영화지만 죽은 채드윅 보즈만을 추모하고 차기 블랙 팬서에 대한 발판을 마련한 영화라는데 의의를 두고 싶습니다.
+영화 상영 시간이 2시간 40여 분으로 상당히 긴 영화지만 죽은 {{< person url="https://www.imdb.com/name/nm1569276/?ref_=nv_sr_srsg_0" name="채드윅 보즈만" nick="Chadwick Boseman" picture="https://www.emmys.com/sites/default/files/bios/chadwick-boseman-450-600.jpg" >}}을 추모하고 차기 블랙 팬서에 대한 발판을 마련한 영화라는데 의의를 두고 싶습니다.
 
 이제 쿠키 개수를 말씀드리자면 쿠키는 1개입니다. 보통 마블 영화들이 2개의 쿠기가 있는 반면 이 영화는 1개입니다.
 

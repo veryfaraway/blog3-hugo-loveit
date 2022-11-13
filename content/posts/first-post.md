@@ -3,6 +3,7 @@ title: "三人行必有我師"
 date: 2021-12-31T00:01:33+09:00
 draft: false
 toc: false
+slug: "hello-world"
 categories: ["Notice"]
 ---
 
